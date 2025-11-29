@@ -97,7 +97,6 @@ Regularization helps reduce overfitting by penalizing model complexity.
 - **Hyperparameter Tuning**
 - **Grid Search**
 - **Random Search**
-- **Cross-validation**
 
 ---
 
